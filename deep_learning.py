@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1EMVMjN620w9mkT2uOHcLsS4ffLKWPJtG
 """
 
-!pip install opencv-python
-
-!pip install opencv-python-headless
-
 #Load dataset
 import pandas as pd
 
